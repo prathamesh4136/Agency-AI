@@ -1,16 +1,73 @@
-# React + Vite
+# 🚀 AgencyAI – Digital Agency Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+AgencyAI is a modern, responsive digital agency website designed to showcase services, portfolio work, and client interaction with a clean and professional UI.  
+The project includes a **Light / Dark theme toggle** and focuses on smooth user experience and scalable frontend architecture.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## React Compiler
+## 🌐 Live Preview
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🔗 https://agency-ai-pg.vercel.app/
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠 Tech Stack
+
+- **HTML5** – Semantic and accessible structure  
+- **Tailwind CSS** – Utility-first styling & responsive design  
+- **JavaScript (ES6+)** – Dynamic functionality  
+- **React.js** – Component-based UI development  
+- **Vite** – Fast development server & optimized build  
+
+
+
+## ✨ Key Features
+
+- Modern landing page with strong visual branding  
+- Light & Dark mode theme toggle  
+- Services section explaining offerings  
+- Portfolio / latest work showcase  
+- Contact form UI for client interaction  
+- Fully responsive across all devices  
+- Clean, reusable React components  
+
+
+
+## 🎨 Theme Preview
+
+### 🏠 Home Page
+![Home page](./assets/Home.png)
+
+
+
+## 📸 Website Sections
+
+### 🧩 Services
+![Services Section](./assets/Services.png)
+
+---
+
+### 💼 Our Latest Work
+![Latest Work](./assets/latest-work.png)
+
+---
+
+### 📬 Contact Us
+![Contact Section](./assets/contact.png)
+
+
+
+📌 Future Improvements
+
+Backend integration for contact form
+
+Animations using Framer Motion
+
+Dark mode enhancement
+
+SEO optimization
+
+👨‍💻 Author
+
+Prathamesh Gaikwad
+
+React Enthusiast
